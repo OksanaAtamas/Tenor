@@ -1,0 +1,23 @@
+name: tenor
+description: A Flutter application for image search
+version: 1.0.0
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+  flutter_svg: ^1.0.8
+  flutter_typeahead: ^4.1.0
+  share: ^2.0.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+
